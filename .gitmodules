@@ -10,3 +10,7 @@
 	path = megacov-filter
 	url = https://github.com/dem1995/megacov-filter.git
 	branch = master
+[submodule "GeoCov-v2"]
+	path = GeoCov-v2
+	url = https://github.com/dem1995/GeoCov-v2
+	branch = main
