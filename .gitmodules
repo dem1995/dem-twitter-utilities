@@ -1,0 +1,4 @@
+[submodule "geo-filter-twitter"]
+	path = geo-filter-twitter
+	url = https://github.com/dem1995/geo-filter-twitter.git
+	branch = master
