@@ -6,3 +6,7 @@
 	path = twitter-userdoc-creator
 	url = https://github.com/dem1995/twitter-userdoc-creator.git
 	branch = main
+[submodule "megacov-filter"]
+	path = megacov-filter
+	url = https://github.com/dem1995/megacov-filter.git
+	branch = master
