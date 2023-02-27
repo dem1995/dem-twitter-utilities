@@ -14,3 +14,7 @@
 	path = GeoCov-v2
 	url = https://github.com/dem1995/GeoCov-v2
 	branch = main
+[submodule "extract-geotagged-tweets"]
+	path = extract-geotagged-tweets
+	url = https://github.com/dem1995/extract-geotagged-tweets.git
+	branch = master
