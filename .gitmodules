@@ -2,3 +2,7 @@
 	path = geo-filter-twitter
 	url = https://github.com/dem1995/geo-filter-twitter.git
 	branch = master
+[submodule "twitter-userdoc-creator"]
+	path = twitter-userdoc-creator
+	url = https://github.com/dem1995/twitter-userdoc-creator.git
+	branch = main
