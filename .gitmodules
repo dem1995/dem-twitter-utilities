@@ -18,3 +18,7 @@
 	path = extract-geotagged-tweets
 	url = https://github.com/dem1995/extract-geotagged-tweets.git
 	branch = master
+[submodule "month-organizer-twitter"]
+	path = month-organizer-twitter
+	url = https://github.com/dem1995/month-organizer-twitter.git
+	branch = main
